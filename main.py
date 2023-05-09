@@ -85,5 +85,5 @@ def tracking_and_path(video):
     cap.release()
     cv2.destroyAllWindows()
 
-
+#Example
 tracking_and_path("Handmovements.mp4")
