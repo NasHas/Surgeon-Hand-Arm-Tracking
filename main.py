@@ -18,7 +18,7 @@ def tracking_and_path(video):
                         min_detection_confidence=0.7,
                         min_tracking_confidence=0.5) as hands:
 
-        #Begin variables for storing the movement paths and path lengths of both hands
+        #Define variables for storing the movement paths and path lengths of both hands
         path_left = []
         path_right = []
         path_length_left = 0
