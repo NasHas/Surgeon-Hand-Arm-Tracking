@@ -10,4 +10,4 @@ Instructions:
 4) In the code the last line is called Example. In this example, wrtie the name of your video-file and run the program.
 5) You will get two windows; one with hand tracking and the other with movement paths in two colors. After the code has finished, you will get the path lengths in pixels. 
 
-/Hashemi et al. 2023
+/Hashemi et. al., Acquisition and usage of robotic surgical data for machine learning analysis. Surg Endosc. 2023 Jun 30
